@@ -4,6 +4,14 @@ MNIST
 MNIST是机器学习和深度学习领域一个经典的数据集，对于这个数据集有很多种方法，这里提供一些方法供参考。
 # Algorithms
 * ML
+  * SVM
+  * DecesionTree
+  * RandomForest
+  * KNeighbors
+  * Adaboost
+  * XGBoost
+  * catboost
+  * lgbm
   
 * DL
   * FC
@@ -16,5 +24,15 @@ here is [kaggle Digit Recongizer](https://www.kaggle.com/c/digit-recognizer)
 准确率在kaggle的比赛上进行验证，所有算法都未经调参、优化等操作。
 |Algorithm|Score|Time Cost|
 |--|--|--|
+|SVM| | |
+|DecisionTree| | |
+|RandomForest|  | |
+|KNeighbors| | |
+| Adaboost | | |
+|XGBoost| | |
+|catboost | | |
+|lgbm| | |
+|neural network with numpy | | |
 |VGG16|0.98357| |
+|LSTM| | |
 |BLS|0.93471 | |
