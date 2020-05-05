@@ -37,7 +37,7 @@ Test on: GPU: Tesla P100 x1
 |XGBoost| | |
 |catboost | | |
 |lgbm| | |
-|neural network with numpy | |662 (10 epochs)|
+|neural network with numpy |0.92214 |662 (10 epochs)|
 |VGG16|0.98357| 676 (32 epochs)|
-|LSTM| |1447 (32 epochs)|
+|LSTM| 0.90785|1447 (32 epochs)|
 |BLS|0.93471 |30.43|
