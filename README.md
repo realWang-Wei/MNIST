@@ -34,11 +34,11 @@ Test on: GPU: Tesla P100 x1
          
 |Algorithm|Score|Time Cost for training/s|
 |--|--|--|
-|SVM| | 8504|
-|DecisionTree| |10.90 |
-|RandomForest|  | 2.61|
-|KNeighbors| |5.63 |
-| Adaboost | |23.32 |
+|SVM| 0.11614| 8504|
+|DecisionTree|0.85585 |10.90 |
+|RandomForest| 0.94142 | 2.61|
+|KNeighbors|0.96800 |5.63 |
+| Adaboost |0.72914 |23.32 |
 |XGBoost| | |
 |catboost | | |
 |lgbm| | |
