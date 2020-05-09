@@ -3,7 +3,7 @@ MNIST
 # Introduction
 MNIST is a classic data set in the field of machine learning and deep learning. There are many methods for this data set. Here are some methods for reference.
 
-
+the data resource is [kaggle Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) 
 
 # Algorithms
 * ML
@@ -22,8 +22,8 @@ MNIST is a classic data set in the field of machine learning and deep learning. 
   * LSTM
   * BLS
 
-# Score on test data（kaggle）
-here is [kaggle Digit Recongizer](https://www.kaggle.com/c/digit-recognizer)
+# Score on test data
+here is the [kaggle Digit Recongizer](https://www.kaggle.com/c/digit-recognizer/data)
 
 The accuracy is verified in the kaggle competition, and all algorithms have not been adjusted or optimized.
 
