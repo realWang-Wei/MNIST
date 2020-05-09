@@ -3,7 +3,7 @@ MNIST
 # Introduction
 MNIST is a classic data set in the field of machine learning and deep learning. There are many methods for this data set. Here are some methods for reference.
 
-(MNIST是机器学习和深度学习领域一个经典的数据集，对于这个数据集有很多种方法，这里提供一些方法供参考。)
+
 
 # Algorithms
 * ML
@@ -27,7 +27,7 @@ here is [kaggle Digit Recongizer](https://www.kaggle.com/c/digit-recognizer)
 
 The accuracy is verified in the kaggle competition, and all algorithms have not been adjusted or optimized.
 
-(准确率在kaggle的比赛上进行验证，所有算法都未经调参、优化等操作。)
+
 
 Test on: GPU: Tesla P100 x1
          CPU: 8 kernels, 64G RAM
